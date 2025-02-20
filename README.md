@@ -12,5 +12,6 @@ Get familiar with GitHub by demonstrating the following
 - Item 1
 - Item 2
 - Ect.
-3. ==Highlighting==
+3.
+==Highlighting==
   
