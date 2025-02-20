@@ -1,3 +1,9 @@
-# hello-world
-This repository is built for learning the basics of GitHub.
-Im a student at the university of Iowa Pursuign a degree in Business Analytics and Information Systems 
+# Project Name
+Hello World
+## Project description
+Get familiar with GitHub by demonstrating the following
+1. Creating a repository
+2. Creating branches off this repository to make edits
+3. demonstrating use of **Markdown syntax**
+---
+
