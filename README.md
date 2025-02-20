@@ -10,12 +10,13 @@ Get familiar with GitHub by demonstrating the following
 ### *Here are some examples of different **Markdown syntax***
 
 1. [Enjoy these Pug pictures](https://unsplash.com/s/photos/pug)
-2. Unordered List
+2.  *Italics*
+3. Unordered List
 - Item 1
 - Item 2
 - Ect.
-3. ~Strikethrough~
-4. Superscript x^2^
+4. ~Strikethrough~
+5. Superscript x^2^
   
 
   
