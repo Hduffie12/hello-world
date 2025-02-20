@@ -12,7 +12,7 @@ Get familiar with GitHub by demonstrating the following
 - Item 1
 - Item 2
 - Ect.
-3. Subscript H~2~0
+3. ~Strikethrough~
 4. Superscript x^2^
   
 
